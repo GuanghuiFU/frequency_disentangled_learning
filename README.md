@@ -1,6 +1,7 @@
 # Frequency Disentangled Learning for Segmentation of Midbrain Structures from Quantitative Susceptibility Mapping Data
 
 This repository is released for review purposes of MICCAI 2023 conference. Any other use of the proposed methodology or code without explicit permission from the authors is prohibited. The code will be made Open source in a deanonymized version if the paper gets accepted. 
+Some functions in this code were adapted from the MedicalZooPytorch project (https://github.com/black0017/MedicalZooPytorch).
 
 ## Prerequisites
 
